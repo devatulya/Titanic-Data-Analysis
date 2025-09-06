@@ -20,4 +20,4 @@ This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset
 ## How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Titanic-Data-Analysis.git
+   git clone https://github.com/Ydevatulya/Titanic-Data-Analysis.git
